@@ -14,7 +14,7 @@ export default function Player() {
 
     // --- 1. LOGIKA GANTIAN 2 AKUN ADSTERRA (50:50) ---
     const scriptAd = document.createElement('script');
-    const iklanAkun1 = "https://pl29098896.profitablecpmratenetwork.com/2f/c9/cf/2fc9cf2cac8df8cdcc6412ebb68d21cb.js";
+    const iklanAkun1 = "https://pl29026727.effectivecpmnetwork.com/3f/15/68/3f1568abba42b8b30c399c2727d4afc4.js";
     const iklanAkun2 = "https://evidentbummerhike.com/e4/6a/bf/e46abf385099c2b5d894dbb1c522e30c.js"; 
 
     scriptAd.src = Math.random() < 0.5 ? iklanAkun1 : iklanAkun2;
@@ -23,7 +23,7 @@ export default function Player() {
 
     // --- 2. TAMBAHKAN SOCIAL BAR ---
     const scriptSocialBar = document.createElement('script');
-    scriptSocialBar.src = "https://pl29410323.profitablecpmratenetwork.com/bd/b7/7f/bdb77fcfc7d48f63b8cafe0da6f74a8b.js";
+    scriptSocialBar.src = "https://pl29466244.effectivecpmnetwork.com/ba/43/c5/ba43c52f0319bf3c03518c275783d007.js";
     scriptSocialBar.async = true;
     document.body.appendChild(scriptSocialBar);
 
